@@ -1,0 +1,32 @@
+.container{
+  background-color: #0805cf;
+}
+
+#article_img{
+  width: 100%;
+  border: 1px solid black;
+}
+
+
+#article_bar{
+  position: inline;
+  border: 1px solid black;
+}
+
+#pages{
+  padding: 10px;
+  color: white;
+  font-size: 17px;
+}
+
+.navbar{
+  margin: 0;
+}
+
+#modal_text{
+  text-align: center;
+}
+
+.article_jumbo{
+  font-family: georgia;
+}
